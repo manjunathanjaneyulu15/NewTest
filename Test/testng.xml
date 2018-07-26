@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SuiteOne" verbose="6">
+<test name="SuiteOneTests">
+<classes>
+<class name="TestNGOne.NewTest"></class>
+<class name="TestNGOne.NewTestTwo"></class>
+</classes>
+</test>
+</suite>

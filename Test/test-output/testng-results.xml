@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+    <line>
+      <![CDATA[---report--one----]]>
+    </line>
+    <line>
+      <![CDATA[---report--two----]]>
+    </line>
+    <line>
+      <![CDATA[---report--three----]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="76" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="76" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+      <class name="TestNGOne.NewTestTwo">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:TestNGOne.NewTestTwo@28feb3fa]" name="beforeClass" is-config="true" duration-ms="1" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestNGOne.NewTestTwo@28feb3fa]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:TestNGOne.NewTestTwo@28feb3fa]" name="f" duration-ms="16" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestNGOne.NewTestTwo@28feb3fa]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestNGOne.NewTestTwo@28feb3fa]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f1()[pri:0, instance:TestNGOne.NewTestTwo@28feb3fa]" name="f1" duration-ms="1" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestNGOne.NewTestTwo@28feb3fa]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestNGOne.NewTestTwo@28feb3fa]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f3()[pri:0, instance:TestNGOne.NewTestTwo@28feb3fa]" name="f3" duration-ms="1" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f3 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:TestNGOne.NewTestTwo@28feb3fa]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestNGOne.NewTestTwo@28feb3fa]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestNGOne.NewTestTwo -->
+      <class name="TestNGOne.NewTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:TestNGOne.NewTest@675d3402]" name="beforeSuite" is-config="true" duration-ms="12" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:TestNGOne.NewTestTwo@28feb3fa]" name="beforeSuite" is-config="true" duration-ms="1" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestNGOne.NewTest@675d3402]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestNGOne.NewTestTwo@28feb3fa]" name="beforeTest" is-config="true" duration-ms="1" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:TestNGOne.NewTest@675d3402]" name="beforeClass" is-config="true" duration-ms="1" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:TestNGOne.NewTest@675d3402]" name="f" duration-ms="2" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[---report--one----]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestNGOne.NewTest@675d3402]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestNGOne.NewTest@675d3402]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestNGOne.NewTest@675d3402]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f1()[pri:0, instance:TestNGOne.NewTest@675d3402]" name="f1" duration-ms="1" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[---report--two----]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestNGOne.NewTest@675d3402]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="f3()[pri:0, instance:TestNGOne.NewTest@675d3402]" name="f3" duration-ms="2" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[---report--three----]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f3 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestNGOne.NewTest@675d3402]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestNGOne.NewTest@675d3402]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:TestNGOne.NewTest@675d3402]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestNGOne.NewTest@675d3402]" name="afterTest" is-config="true" duration-ms="1" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestNGOne.NewTestTwo@28feb3fa]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:TestNGOne.NewTest@675d3402]" name="afterSuite" is-config="true" duration-ms="1" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:TestNGOne.NewTestTwo@28feb3fa]" name="afterSuite" is-config="true" duration-ms="0" started-at="2018-06-15T19:58:35Z" finished-at="2018-06-15T19:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- TestNGOne.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
